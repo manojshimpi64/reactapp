@@ -1,0 +1,25 @@
+.div{
+    width: 300px;
+    height: 400px;
+    overflow: hidden;
+    background-color: lightgreen;
+    color: white;
+    padding: 8px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px rgb(7, 7, 12);
+}
+
+h3{
+    color: aqua;
+    width: 200px;
+    height: 300px;
+    margin: 20px;
+    border: 1px solid black;
+}
+#xyz{
+    color: rgb(160, 7, 32);
+    width: 200px;
+    height: 300px;
+    margin: 20px;
+    border: 1px solid black;
+}
